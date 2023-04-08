@@ -29,7 +29,7 @@
     "自助回答！ ヽ(•̀ω•́ )ゝ": [
       {
         "name": "联系客服",
-        "href": "QQ:3094845060<br /><br />QQ:3094845060<br /><br />QQ:3094845060",
+        "href": "QQ:3094845060\nQQ:3094845060\nQQ:3094845060",
         "desc": "客服没回说明在睡觉",
         "logo": "./src/favicon.png",
         "func": "plaaaay('miao');console.info(h);alert(h);",
@@ -49,7 +49,7 @@
       },
       {
         "name": "登录转圈圈/登不上",
-        "href": "1、清掉appstore后台<br />2、者重启手机",
+        "href": "1、清掉appstore后台\n2、者重启手机",
         "desc": "解决方法",
         "logo": "./src/favicon.png",
         "func": "plaaaay('miao');console.info(h);alert(h);",
@@ -57,7 +57,7 @@
       },
       {
         "name": "无法更新应用",
-        "href": "删掉需要更新的app，用新ID下载<br /><br />删掉需要更新的app，用新ID下载<br /><br />删掉需要更新的app，用新ID下载",
+        "href": "删掉需要更新的app，用新ID下载\n\n删掉需要更新的app，用新ID下载\n\n删掉需要更新的app，用新ID下载",
         "desc": "删掉重下",
         "logo": "./src/favicon.png",
         "func": "plaaaay('miao');console.info(h);alert(h);",
