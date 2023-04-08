@@ -8,6 +8,24 @@
         "logo": "./src/favicon.png"
       },
       {
+        "name": "Bilibili",
+        "href": "https://space.bilibili.com/",
+        "desc": "哔哩哔哩弹幕视频网",
+        "logo": "./src/favicon.png"
+      },
+      {
+        "name": "Bilibili",
+        "href": "https://space.bilibili.com/",
+        "desc": "哔哩哔哩弹幕视频网",
+        "logo": "./src/favicon.png"
+      },
+      {
+        "name": "Bilibili",
+        "href": "https://space.bilibili.com/",
+        "desc": "哔哩哔哩弹幕视频网",
+        "logo": "./src/favicon.png"
+      },
+      {
         "name": "微信传文件",
         "href": "https://filehelper.weixin.qq.com/",
         "desc": "微信文件传输助手网页版",
@@ -35,6 +53,30 @@
         "href": "https://photo.siitake.cn/",
         "desc": "演示站、售卖头发…",
         "logo": "./src/favicon.png"
+      },
+      {
+        "name": "操作指南",
+        "href": "鼠标单击或触屏点击图标即可跳转网页或执行代码；\n鼠标右击或触屏长按可调出二维码，点击空白部分关闭二维码；\n点击右上角放大镜图标搜索本站；\n猫猫技能：躲猫猫。",
+        "desc": "此页面的简单操作提示",
+        "logo": "./src/favicon.png",
+        "func": "plaaaay('miao');console.info(h);alert(h);",
+        "noUtm": ""
+      },
+      {
+        "name": "操作指南",
+        "href": "鼠标单击或触屏点击图标即可跳转网页或执行代码；\n鼠标右击或触屏长按可调出二维码，点击空白部分关闭二维码；\n点击右上角放大镜图标搜索本站；\n猫猫技能：躲猫猫。",
+        "desc": "此页面的简单操作提示",
+        "logo": "./src/favicon.png",
+        "func": "plaaaay('miao');console.info(h);alert(h);",
+        "noUtm": ""
+      },
+      {
+        "name": "操作指南",
+        "href": "鼠标单击或触屏点击图标即可跳转网页或执行代码；\n鼠标右击或触屏长按可调出二维码，点击空白部分关闭二维码；\n点击右上角放大镜图标搜索本站；\n猫猫技能：躲猫猫。",
+        "desc": "此页面的简单操作提示",
+        "logo": "./src/favicon.png",
+        "func": "plaaaay('miao');console.info(h);alert(h);",
+        "noUtm": ""
       }
     ]
   }
