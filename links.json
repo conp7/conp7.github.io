@@ -40,16 +40,12 @@
         "href": "https://tigdown.cn/73",
         "desc": "修改密码即可",
         "logo": "./src/favicon.png",
-        "func": "plaaaay('miao');console.info(h);alert(h);",
-        "noUtm": ""
       },
       {
         "name": "此Apple id已锁定",
         "href": "https://tigdown.cn/134。",
         "desc": "修改密码即可",
         "logo": "./src/favicon.png",
-        "func": "plaaaay('miao');console.info(h);alert(h);",
-        "noUtm": ""
       },
       {
         "name": "登录转圈圈/登不上",
@@ -72,8 +68,6 @@
         "href": "https://zhuanlan.zhihu.com/p/256249928",
         "desc": "要经常使用账号哦",
         "logo": "./src/favicon.png",
-        "func": "plaaaay('miao');console.info(h);alert(h);",
-        "noUtm": ""
       }
     ]
   }
