@@ -39,13 +39,13 @@
         "name": "解除双重认证",
         "href": "https://tigdown.cn/73",
         "desc": "修改密码即可",
-        "logo": "./src/favicon.png",
+        "logo": "./src/favicon.png"
       },
       {
         "name": "此Apple id已锁定",
         "href": "https://tigdown.cn/134。",
         "desc": "修改密码即可",
-        "logo": "./src/favicon.png",
+        "logo": "./src/favicon.png"
       },
       {
         "name": "登录转圈圈/登不上",
@@ -67,7 +67,7 @@
         "name": "账号停用/未激活问题",
         "href": "https://zhuanlan.zhihu.com/p/256249928",
         "desc": "要经常使用账号哦",
-        "logo": "./src/favicon.png",
+        "logo": "./src/favicon.png"
       }
     ]
   }
