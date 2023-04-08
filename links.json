@@ -1,34 +1,30 @@
 [
   {
-    "导航 ♪（＾∀＾●）ﾉ": [
+    "常见问题 ♪（＾∀＾●）ﾉ": [
       {
-        "name": "Bilibili",
-        "href": "https://space.bilibili.com/",
-        "desc": "哔哩哔哩弹幕视频网",
+        "name": "商店地址",
+        "href": "https://id66.xyz/",
+        "desc": "快速获得ID",
         "logo": "./src/favicon.png"
       },
       {
-        "name": "Bilibili",
-        "href": "https://space.bilibili.com/",
-        "desc": "哔哩哔哩弹幕视频网",
+        "name": "登陆教程",
+        "href": "https://tigdown.cn/65",
+        "desc": "如何从AppStore登录账号",
+        "func": "window.open(h, '_blank', 'height=750, width=690, top=50, left=50, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no, z-look=yes')",
         "logo": "./src/favicon.png"
       },
       {
-        "name": "Bilibili",
-        "href": "https://space.bilibili.com/",
-        "desc": "哔哩哔哩弹幕视频网",
+        "name": "改密教程",
+        "href": "https://tigdown.cn/73",
+        "desc": "如何修改ID密码和密保",
+        "func": "window.open(h, '_blank', 'height=750, width=690, top=50, left=50, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no, z-look=yes')",
         "logo": "./src/favicon.png"
       },
       {
-        "name": "Bilibili",
-        "href": "https://space.bilibili.com/",
-        "desc": "哔哩哔哩弹幕视频网",
-        "logo": "./src/favicon.png"
-      },
-      {
-        "name": "微信传文件",
-        "href": "https://filehelper.weixin.qq.com/",
-        "desc": "微信文件传输助手网页版",
+        "name": "问题汇总",
+        "href": "https://tigdown.cn/149",
+        "desc": "可能遇到的所有问题",
         "func": "window.open(h, '_blank', 'height=750, width=690, top=50, left=50, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no, z-look=yes')",
         "logo": "./src/favicon.png"
       },
@@ -41,39 +37,51 @@
         "noUtm": ""
       }
     ],
-    "香菇！ ヽ(•̀ω•́ )ゝ": [
+    "自助回答！ ヽ(•̀ω•́ )ゝ": [
       {
-        "name": "Blog",
-        "href": "https://blog.siitake.cn/",
-        "desc": "智障少年蠢香菇。",
-        "logo": "./src/favicon.png"
-      },
-      {
-        "name": "Photograph",
-        "href": "https://photo.siitake.cn/",
-        "desc": "演示站、售卖头发…",
-        "logo": "./src/favicon.png"
-      },
-      {
-        "name": "操作指南",
-        "href": "鼠标单击或触屏点击图标即可跳转网页或执行代码；\n鼠标右击或触屏长按可调出二维码，点击空白部分关闭二维码；\n点击右上角放大镜图标搜索本站；\n猫猫技能：躲猫猫。",
-        "desc": "此页面的简单操作提示",
+        "name": "联系客服",
+        "href": "3094845060。",
+        "desc": "客服没回说明在睡觉",
         "logo": "./src/favicon.png",
         "func": "plaaaay('miao');console.info(h);alert(h);",
         "noUtm": ""
       },
       {
-        "name": "操作指南",
-        "href": "鼠标单击或触屏点击图标即可跳转网页或执行代码；\n鼠标右击或触屏长按可调出二维码，点击空白部分关闭二维码；\n点击右上角放大镜图标搜索本站；\n猫猫技能：躲猫猫。",
-        "desc": "此页面的简单操作提示",
+        "name": "解除双重认证",
+        "href": "https://tigdown.cn/73",
+        "desc": "修改密码即可",
         "logo": "./src/favicon.png",
         "func": "plaaaay('miao');console.info(h);alert(h);",
         "noUtm": ""
       },
       {
-        "name": "操作指南",
-        "href": "鼠标单击或触屏点击图标即可跳转网页或执行代码；\n鼠标右击或触屏长按可调出二维码，点击空白部分关闭二维码；\n点击右上角放大镜图标搜索本站；\n猫猫技能：躲猫猫。",
-        "desc": "此页面的简单操作提示",
+        "name": "此Apple id已锁定",
+        "href": "https://tigdown.cn/134。",
+        "desc": "修改密码即可",
+        "logo": "./src/favicon.png",
+        "func": "plaaaay('miao');console.info(h);alert(h);",
+        "noUtm": ""
+      },
+      {
+        "name": "登录转圈圈/登不上",
+        "href": "①清掉appstore后台②者重启手机",
+        "desc": "解决方法",
+        "logo": "./src/favicon.png",
+        "func": "plaaaay('miao');console.info(h);alert(h);",
+        "noUtm": ""
+      },
+      {
+        "name": "无法更新应用",
+        "href": "删掉需要更新的app，用新ID下载",
+        "desc": "删掉重下",
+        "logo": "./src/favicon.png",
+        "func": "plaaaay('miao');console.info(h);alert(h);",
+        "noUtm": ""
+      },
+      {
+        "name": "账号停用/未激活问题",
+        "href": "https://zhuanlan.zhihu.com/p/256249928",
+        "desc": "要经常使用账号哦",
         "logo": "./src/favicon.png",
         "func": "plaaaay('miao');console.info(h);alert(h);",
         "noUtm": ""
